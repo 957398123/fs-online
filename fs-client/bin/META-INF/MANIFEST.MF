@@ -1,0 +1,9 @@
+JarSrc: 2dgf
+MIDlet-1: 封神Online, /icons/icon.png, c_a
+MIDlet-Name: 封神Online
+MIDlet-Vendor: 空中猛犸
+MIDlet-Version: 4.0.2
+MIdlet-Install-Notify: http://g.kong.net/gk/fswap/install.jsp?from=2dgf&a=1
+Manifest-Version: 1.0
+MicroEdition-Configuration: CLDC-1.0
+MicroEdition-Profile: MIDP-1.0
